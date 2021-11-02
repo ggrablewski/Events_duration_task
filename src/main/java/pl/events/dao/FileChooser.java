@@ -1,4 +1,4 @@
-package dao;
+package pl.events.dao;
 
 import java.util.Scanner;
 
